@@ -1,10 +1,28 @@
 Задание №2. Выполнение CRUD операций
 
+Настройка Open Server:
+
+Установим следующие параметры сервера:
+
+![image](https://user-images.githubusercontent.com/102148024/215026141-7a3dfa1f-67af-4cb0-a266-0a26f0e9c542.png)
+
+В модулях подключим нужные версии PHP MySQL и Apache
+
+![image](https://user-images.githubusercontent.com/102148024/215026261-dc31e1db-7afe-4306-bf1d-3c97c9c56ff7.png)
+
+Добавил в наш сайт во вкладке домены:
+
+![image](https://user-images.githubusercontent.com/102148024/215026413-101d8baf-b05e-4902-b661-b76544dc4886.png)
+
+В phpMyAdmin поставим логин root и пароль оставим пустым.
+
 Диаграмма базы данных:
 
 ![Диаграмма базы данных](https://user-images.githubusercontent.com/102148024/214978825-9c08c67b-3032-42b7-868f-04077bf4217a.png)
 
 Интернет магазин "No Ozone"
+
+В папке OSPanel откроем папку domains и создамим папку с проектом.
 
 Команды для установки:
 

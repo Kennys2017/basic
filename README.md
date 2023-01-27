@@ -1,10 +1,10 @@
-							Задание №2. Выполнение CRUD операций
+Задание №2. Выполнение CRUD операций
 
 Диаграмма базы данных:
 
 ![Диаграмма базы данных](https://user-images.githubusercontent.com/102148024/214978825-9c08c67b-3032-42b7-868f-04077bf4217a.png)
 
-     							 Интернет магазин "No Ozone"
+Интернет магазин "No Ozone"
 
 Команды для установки:
 
@@ -20,7 +20,8 @@
 
 ![image](https://user-images.githubusercontent.com/102148024/214979179-535d3c6f-de7d-40e6-bdf9-dd172d8b0886.png)
 
-							Генерация Модулей
+Генерация Модулей
+
 Для создания моделей в строке поиска введём следующее:
 
 ![image](https://user-images.githubusercontent.com/102148024/214979434-c7e0816c-8a3e-4ffb-a3fc-0e8526f9ee38.png)
@@ -36,7 +37,7 @@
 ![image](https://user-images.githubusercontent.com/102148024/214980561-cfaa6a3d-e39f-4ed3-86c7-f69edccdce7c.png)
 
 
-							Генерация Моделей
+Генерация Моделей
 
 
 На этой странице открываем Генератор Моделей:
@@ -51,7 +52,7 @@
 
 ![image](https://user-images.githubusercontent.com/102148024/214979786-7ad8a48b-699a-4e29-81cc-9bc9358578b6.png)
 
-						Генерация CRUD
+Генерация CRUD
 
 ![image](https://user-images.githubusercontent.com/102148024/214979896-12aa0dd0-8c33-4b34-bfd2-e7f51614bdd1.png)
 
@@ -59,7 +60,7 @@
 
 ![image](https://user-images.githubusercontent.com/102148024/214979981-e61417e8-f977-483c-b903-0160479f962e.png)
 
-						Добавление ссылок в меню
+Добавление ссылок в меню
 
 ![image](https://user-images.githubusercontent.com/102148024/214980151-7901a150-dcf2-4fa2-8336-26f8c8b09547.png)
 
